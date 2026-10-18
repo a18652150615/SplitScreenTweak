@@ -1,0 +1,9 @@
+Package: com.yourname.splitscreentweak
+Name: SplitScreenTweak
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: 多功能分屏小窗插件，支持边角呼出、比例调节、挂起图钉
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.apple.preferences
